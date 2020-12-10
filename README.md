@@ -2,7 +2,7 @@
 <img src= "./suitcase.png">
 
 ## About
-insert about
+A travel app orientated around categorically organized packing checklists.
 
 
 
